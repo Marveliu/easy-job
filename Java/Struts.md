@@ -36,4 +36,4 @@ Struts2不再与Servlet API耦合，无需传入HttpServletRequest和HttpServlet
 
 ### 接收参数 1.使用Action的属性接收 2.使用DomainModel接收 3.实现ModelDriven接口
 
-代码地址:[struts](https://github.com/lemonjing/struts)
+代码地址:[struts](https://github.com/taoran92/struts)

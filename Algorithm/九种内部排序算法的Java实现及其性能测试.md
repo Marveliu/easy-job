@@ -336,6 +336,6 @@ public void quickSort(int[] a, int low, int high) {
 }
 ```
 
-排序代码地址 [https://github.com/Lemonjing/TinyCoding/tree/master/src/main/java/com/ryan/sort](https://github.com/Lemonjing/TinyCoding/tree/master/src/main/java/com/ryan/sort)
+排序代码地址 [https://github.com/taoran92/TinyCoding/tree/master/src/main/java/com/ryan/sort](https://github.com/taoran92/TinyCoding/tree/master/src/main/java/com/ryan/sort)
 
-性能测试代码地址 [https://github.com/Lemonjing/TinyCoding/tree/master/src/test/java/com/ryan/sort](https://github.com/Lemonjing/TinyCoding/tree/master/src/test/java/com/ryan/sort)
+性能测试代码地址 [https://github.com/taoran92/TinyCoding/tree/master/src/test/java/com/ryan/sort](https://github.com/taoran92/TinyCoding/tree/master/src/test/java/com/ryan/sort)
